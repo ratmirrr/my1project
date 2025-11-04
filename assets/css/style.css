@@ -18,3 +18,7 @@ header {
 main {
     color: aqua; text-align: center;
 }
+
+footer {
+    color: black; font-size: large; text-align: justify;
+}
