@@ -1,0 +1,24 @@
+:root {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+}
+
+header {
+  background-color: #eee;
+  padding: 10px;
+  text-align: center;
+}
+
+main {
+    color: aqua; text-align: center;
+}
+
+footer {
+    color: black; font-size: large; text-align: justify;
+}
