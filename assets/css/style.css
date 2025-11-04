@@ -14,3 +14,7 @@ header {
   padding: 10px;
   text-align: center;
 }
+
+main {
+    color: aqua; text-align: center;
+}
